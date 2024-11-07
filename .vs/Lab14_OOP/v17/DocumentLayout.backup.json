@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roman\\source\\repos\\Lab14_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9236110C-91F9-489B-96D7-F854862908D8}|Lab14_OOP\\Lab14_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab14_OOP\\Lab14_OOP\\Lab14_OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9236110C-91F9-489B-96D7-F854862908D8}|Lab14_OOP\\Lab14_OOP.vcxproj|solutionrelative:Lab14_OOP\\Lab14_OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab14_OOP.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab14_OOP\\Lab14_OOP\\Lab14_OOP.cpp",
+              "RelativeDocumentMoniker": "Lab14_OOP\\Lab14_OOP.cpp",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab14_OOP\\Lab14_OOP\\Lab14_OOP.cpp",
+              "RelativeToolTip": "Lab14_OOP\\Lab14_OOP.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T16:35:00.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
